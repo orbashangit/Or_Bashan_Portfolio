@@ -15,8 +15,8 @@ neuron networks.
 ## Projects 
 
 ## Education 
-- M.Sc.,Computational Neuroscience & Data Science | Bar Ilan University (GPA:94) (_December 2022_)
-- B.Sc.,Neuroscience                              | Bar Ilan University (GPA:85) (__December 2020_)
+- M.Sc.,Computational Neuroscience & Data Science | Bar Ilan University (GPA:94) (_October 2022_)
+- B.Sc.,Neuroscience                              | Bar Ilan University (GPA:85) (_October 2020_)
 
 ## Lectures
 **Signal Processing course @ Bar Ilan University**
