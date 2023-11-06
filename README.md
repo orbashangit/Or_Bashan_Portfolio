@@ -4,7 +4,7 @@
 
 
 ## Work Experience
-** Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits 
+**Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits 
 - Utilized classical ML techniques such as PCA, k-means, SVM, Random Forest,
 DBSCAN, and Logistic Regression on neural time series data,To Extracted and classified subsets 
 of neural activities.
@@ -15,10 +15,10 @@ neuron networks.
 ## Projects 
 
 ## Education 
-- M.Sc.,Computational Neuroscience & Data Science | Bar Ilan University (GPA:94)
-- B.Sc.,Neuroscience | Bar Ilan University (GPA:85)
+- M.Sc.,Computational Neuroscience & Data Science | Bar Ilan University (GPA:94) (_December 2022_)
+- B.Sc.,Neuroscience | Bar Ilan University (GPA:85) (__December 2020_)
 
 ## Lectures
-** Signal Processing course @ Bar Ilan University
+**Signal Processing course @ Bar Ilan University
 
 
