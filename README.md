@@ -1,4 +1,5 @@
 # Data Scientist
+(Blue highlighted text are linked to various github repositories)
 #### Technical Skills: Python, MATLAB, Java, SQL, Git, VSC, JetBrain, Jupyter, Colab, Machin learning, Deep Learning, NLP.
 
 ## Work Experience
