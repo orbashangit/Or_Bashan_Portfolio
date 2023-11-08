@@ -16,6 +16,6 @@ neuron networks.
 - M.Sc.,Computational Neuroscience & Data Science | Bar Ilan University (GPA:94) (_October 2022_)
 - B.Sc.,Neuroscience                              | Bar Ilan University (GPA:85) (_October 2020_)
 
-## [Lectures: Signal Processing course @ Bar Ilan University](https://github.com/orbashangit/Signal_Processing_Course_BIU_2023.git)
+## [Lectures: Signal Processing Course @ Bar Ilan University](https://github.com/orbashangit/Signal_Processing_Course_BIU_2023.git)
 
 
