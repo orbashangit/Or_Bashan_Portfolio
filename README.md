@@ -1,10 +1,11 @@
 # Data Scientist
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB, Java, Git, VSC, JetBrain, Jupyter, Colab, Machin learning, Deep Learning, NLP.
+
 
 
 
 ## Work Experience
-**Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits**
+[**Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits**] (https://github.com/orbashangit/Online_Spike_Sorting_NeuroNexus_Probe.git)
 - Utilized classical ML techniques such as PCA, k-means, SVM, Random Forest,
 DBSCAN, and Logistic Regression on neural time series data,To Extracted and classified subsets 
 of neural activities.
