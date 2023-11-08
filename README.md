@@ -5,7 +5,7 @@
 
 
 ## Work Experience
-[**Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits**] (https://github.com/orbashangit/Online_Spike_Sorting_NeuroNexus_Probe.git)
+### [Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits](https://github.com/orbashangit/Online_Spike_Sorting_NeuroNexus_Probe.git)
 - Utilized classical ML techniques such as PCA, k-means, SVM, Random Forest,
 DBSCAN, and Logistic Regression on neural time series data,To Extracted and classified subsets 
 of neural activities.
