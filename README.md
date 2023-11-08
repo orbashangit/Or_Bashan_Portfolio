@@ -1,8 +1,5 @@
 # Data Scientist
-#### Technical Skills: Python, SQL, MATLAB, Java, Git, VSC, JetBrain, Jupyter, Colab, Machin learning, Deep Learning, NLP.
-
-
-
+#### Technical Skills: Python, MATLAB, Java, SQL, Git, VSC, JetBrain, Jupyter, Colab, Machin learning, Deep Learning, NLP.
 
 ## Work Experience
 ### [Data Scientest @ Prof. Rafi Haddad lab – Researching Neural Circuits](https://github.com/orbashangit/Online_Spike_Sorting_NeuroNexus_Probe.git)
